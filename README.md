@@ -1,0 +1,1 @@
+# Neural-Network-Training-for-Latin-Letter-Recognition-from-Hand-Movements
